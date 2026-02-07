@@ -3,6 +3,8 @@ An interactive coffee sales dashboard built using SQL for data preparation and E
 <img width="623" height="373" alt="Coffee Dashboard " src="https://github.com/user-attachments/assets/627ab21f-a222-4073-bea8-f6af319ec1cd" />
 
 Coffee Sales Dashboard (Excel + SQL)
+
+
 Project Overview
 This project focuses on analyzing coffee sales data and presenting insights through an interactive Excel dashboard. The aim was to use SQL for data cleaning, preparation, and calculations, and Excel for visualization using Pivot Tables and interactive controls.
 The dashboard allows users to explore sales performance over time, across countries, and by product and customer attributes.
