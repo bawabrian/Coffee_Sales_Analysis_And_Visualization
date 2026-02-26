@@ -21,7 +21,7 @@
 
 ## 📸 Dashboard Preview
 
-![Coffee Sales Dashboard](./Coffee_Dashboard_.png)
+![Coffee Sales Dashboard](./Coffee_Dashboard.png)
 
 > *An interactive Excel dashboard analysing simulated coffee sales across four coffee types, three countries, and four years (2019–2022) — built using SQL joins for data preparation and Excel pivot tables for dynamic analysis and visualisation.*
 
